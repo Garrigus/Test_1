@@ -1,6 +1,6 @@
-Test of github: "Hello Worlda!"
+Test github: "Hello World!"
 Second Line
 third line to see if this shows up as part of the same paragraph
 
-Skipped a line to test the PH tutorial's contention that MarkDown needs a blank line to start a new paragraph
-PH is correct as faras the web version goes.
+Skipped a line in order to test the PH tutorial's assertion that MarkDown needs a blank line to start a new paragraph
+PH is correct as fa ras the web version goes.
